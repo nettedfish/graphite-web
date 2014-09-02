@@ -1,0 +1,17 @@
+1.carbon
+Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.
+https://github.com/graphite-project/carbon
+
+2.whisper
+Whisper is a file-based time-series database format for Graphite.
+https://github.com/graphite-project/whisper
+
+3.graphite-web
+A highly scalable real-time graphing system
+https://github.com/graphite-project/graphite-web
+
+4.graphite官方文档
+http://graphite.readthedocs.org/en/latest/index.html
+
+5.这个博客也非常不错
+http://www.jsxubar.info/category/system-administration/graphite/
